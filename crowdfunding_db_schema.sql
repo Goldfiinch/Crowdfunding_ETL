@@ -27,7 +27,7 @@ CREATE TABLE campaign (
     contact_id INT NOT NULL,
     company_name VARCHAR (100) NOT NULL,
     description VARCHAR (300) NOT NUll,
-    goal INT NOT NULL,
+    goal VARCHAR (100) NOT NULL,
     pledged INT NOT NULL,
     outcome VARCHAR (100),
     backers_count INT NOT NULL,
