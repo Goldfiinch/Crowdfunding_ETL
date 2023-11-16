@@ -1,6 +1,6 @@
-# Crowdfunding_ETL
+# Crowdfunding_ETL SOURCES
 
-Sources for Category and Subcategory DataFrames:
+# Sources for Category and Subcategory DataFrames:
  
   https://www.tutorialspoint.com/python-pandas-find-unique-values-from-a-single-column
   
@@ -19,7 +19,7 @@ Sources for Category and Subcategory DataFrames:
   https://www.youtube.com/watch?v=51yAgEDjaJI
 
 
-Sources for Campaign DataFrame:
+# Sources for Campaign DataFrame:
 
   https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/#
 
@@ -36,7 +36,7 @@ Sources for Campaign DataFrame:
   https://www.geeksforgeeks.org/how-to-drop-one-or-multiple-columns-in-pandas-dataframe/#
 
 
-Sources for Contacts DataFrame:
+# Sources for Contacts DataFrame:
 
   https://www.geeksforgeeks.org/json-loads-in-python/#
 
